@@ -1,0 +1,141 @@
+SVGs Construct
+--------------------------------------------------------------------------------
+BOTÃO ACESSAR
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+                <rect width="256" height="256" fill="none" />
+                <polygon points="160 16 144 96 208 120 96 240 112 160 48 136 160 16" fill="none" stroke="currentColor"
+                    stroke-linecap="round" stroke-linejoin="round" stroke-width="16" />
+            </svg>
+--------------------------------------------------------------------------------
+TRILHA 
+ <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none"
+                    stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                    class="icon-play">
+                    <polygon points="5 3 19 12 5 21 5 3"></polygon>
+                </svg>
+--------------------------------------------------------------------------------
+BOTÃO CONCLUIR MISSÃO
+Medalha
+
+ <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+                <rect fill="none" />
+                <circle cx="128" cy="96" r="80" fill="none" stroke="currentColor" stroke-linecap="round"
+                    stroke-linejoin="round" stroke-width="16" />
+                <circle cx="128" cy="96" r="48" fill="none" stroke="currentColor" stroke-linecap="round"
+                    stroke-linejoin="round" stroke-width="16" />
+                <polyline points="176 160 176 240 127.99 216 80 240 80 160.01" fill="none" stroke="currentColor"
+                    stroke-linecap="round" stroke-linejoin="round" stroke-width="16" />
+            </svg>
+
+
+--------------------------------------------------------------------------------
+BOTÃO CONCLUIR MISSÃO
+Seta
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+                <rect fill="none" />
+                <line x1="40" y1="128" x2="216" y2="128" fill="none" stroke="currentColor" stroke-linecap="round"
+                    stroke-linejoin="round" stroke-width="16" />
+                <polyline points="144 56 216 128 144 200" fill="none" stroke="currentColor" stroke-linecap="round"
+                    stroke-linejoin="round" stroke-width="16" />
+            </svg>
+
+--------------------------------------------------------------------------------
+<footer>
+        <div class="roda_pe espaco_lateral">
+
+            <div class="logo_footer">
+                <img src="./img/logo.svg" alt="Logo da SuperNova">
+                <p>
+                    Líderes em fabricação de semicondutores e treinamento técnico
+                    gamificado para profissionais da indústria.
+                </p>
+            </div>
+
+            <div class="navegacao_footer">
+                <p class="titulo_footer">Navegação</p>
+                <ul>
+                    <li>Início</li>
+                    <li>Quem Somos</li>
+                    <li>Plataforma</li>
+                    <li>Tutorial</li>
+                    <li>Desafio</li>
+                </ul>
+            </div>
+
+            <div class="contato">
+                <p class="titulo_footer">Contato</p>
+
+                <div class="item_contato">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+                        <rect width="256" height="256" fill="none" />
+                        <circle cx="128" cy="104" r="32" fill="none" stroke="currentColor" stroke-linecap="round"
+                            stroke-linejoin="round" stroke-width="16" />
+                        <path d="M208,104c0,72-80,128-80,128S48,176,48,104a80,80,0,0,1,160,0Z" fill="none"
+                            stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" />
+                    </svg>
+                    <p>São Paulo, SP - Brasil</p>
+                </div>
+
+                <div class="item_contato">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+                        <rect width="256" height="256" fill="none" />
+                        <path d="M32,56H224a0,0,0,0,1,0,0V192a8,8,0,0,1-8,8H40a8,8,0,0,1-8-8V56A0,0,0,0,1,32,56Z"
+                            fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                            stroke-width="16" />
+                        <polyline points="224 56 128 144 32 56" fill="none" stroke="currentColor" stroke-linecap="round"
+                            stroke-linejoin="round" stroke-width="16" />
+                    </svg>
+                    <p>contato@supernova.com.br</p>
+                </div>
+
+                <div class="item_contato">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+                        <rect width="256" height="256" fill="none" />
+                        <path
+                            d="M164.39,145.34a8,8,0,0,1,7.59-.69l47.16,21.13a8,8,0,0,1,4.8,8.3A48.33,48.33,0,0,1,176,216,136,136,0,0,1,40,80,48.33,48.33,0,0,1,81.92,32.06a8,8,0,0,1,8.3,4.8l21.13,47.2a8,8,0,0,1-.66,7.53L89.32,117a7.93,7.93,0,0,0-.54,7.81c8.27,16.93,25.77,34.22,42.75,42.41a7.92,7.92,0,0,0,7.83-.59Z"
+                            fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                            stroke-width="16" />
+                    </svg>
+                    <p>+55 (11) 9 9999-0000</p>
+                </div>
+
+                <div class="social">
+                    <span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+                            <rect width="256" height="256" fill="none" />
+                            <path
+                                d="M88,176S32.85,144,40.78,56c0,0,39.66,40,87.22,48V88c0-22,18-40.27,40-40a40.74,40.74,0,0,1,36.67,24H240l-32,32c-4.26,66.84-60.08,120-128,120-32,0-40-12-40-12S72,200,88,176Z"
+                                fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                                stroke-width="16" />
+                        </svg></span>
+                    <span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+                            <rect width="256" height="256" fill="none" />
+                            <path
+                                d="M119.83,56A52,52,0,0,0,76,32a51.92,51.92,0,0,0-3.49,44.7A49.28,49.28,0,0,0,64,104v8a48,48,0,0,0,48,48h48a48,48,0,0,0,48-48v-8a49.28,49.28,0,0,0-8.51-27.3A51.92,51.92,0,0,0,196,32a52,52,0,0,0-43.83,24Z"
+                                fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                                stroke-width="16" />
+                            <path d="M104,232V192a32,32,0,0,1,32-32h0a32,32,0,0,1,32,32v40" fill="none"
+                                stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                                stroke-width="16" />
+                            <path d="M104,208H72a32,32,0,0,1-32-32A32,32,0,0,0,8,144" fill="none" stroke="currentColor"
+                                stroke-linecap="round" stroke-linejoin="round" stroke-width="16" />
+                        </svg></span>
+                    <span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+                            <rect width="256" height="256" fill="none" />
+                            <rect x="32" y="32" width="192" height="192" rx="8" fill="none" stroke="currentColor"
+                                stroke-linecap="round" stroke-linejoin="round" stroke-width="16" />
+                            <line x1="120" y1="112" x2="120" y2="176" fill="none" stroke="currentColor"
+                                stroke-linecap="round" stroke-linejoin="round" stroke-width="16" />
+                            <line x1="88" y1="112" x2="88" y2="176" fill="none" stroke="currentColor"
+                                stroke-linecap="round" stroke-linejoin="round" stroke-width="16" />
+                            <path d="M120,140a28,28,0,0,1,56,0v36" fill="none" stroke="currentColor"
+                                stroke-linecap="round" stroke-linejoin="round" stroke-width="16" />
+                            <circle cx="88" cy="84" r="12" />
+                        </svg></span>
+                </div>
+            </div>
+
+        </div>
+    </footer>
+
+
